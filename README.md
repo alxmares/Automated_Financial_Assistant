@@ -3,10 +3,13 @@
 ---
 This project is a comprehensive expense management system that utilizes OCR (Optical Character Recognition) to convert purchase receipts into Excel tables. The data is then analyzed and visualized using Power BI to provide detailed weekly and monthly expense reports.
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="./assets/flow_diagram.png" alt="Flowchart Diagram" style="width: 48%;">
-    <img src="./assets/gif.gif" alt="From This to This" style="width: 48%;">
-</div>
+<p align="center">
+    <img src="./assets/flowchart_diagram.png" alt="Flowchart Diagram" width="68%">
+</p>
+
+<p align="center">
+    <img src="./assets/gif.gif" alt="From This to This" width="48%">
+</p>
 
 
 ## Project Structure
