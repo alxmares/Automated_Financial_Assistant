@@ -1,4 +1,4 @@
 remote_theme: pages-themes/minimal@v0.2.0
 title: "Automated Financial Assistant"
 description: "Expense management system that uses OCR (Optical Character Recognition) to convert purchase receipts into Excel tables. Power BI is then used to generate detailed weekly and monthly expense reports."
-logo: /assets/OCR2.png
+logo: /assets/OCR2.jpg
