@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+![gif](./assets/gif.gif)
 
 ## 🛠️ Tools and Technologies Used
 
@@ -52,3 +53,11 @@ To enhance the analysis and visualization capabilities, Power BI was employed to
 - **DAX Functions**: Implementing DAX to create complex measures and calculated columns for more in-depth analysis.
 
 ![Weekly Expense Report](./assets/report.png)
+
+* * *
+
+## 🚀 **Explore More Projects!**
+
+### [📚 Check out all my projects on GitHub Pages](https://alxmares.github.io)
+
+* * *
